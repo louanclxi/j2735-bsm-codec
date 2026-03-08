@@ -1,0 +1,7 @@
+*.o
+*.out
+*.exe
+dev_logs
+build/
+encode_decode
+encode_test
